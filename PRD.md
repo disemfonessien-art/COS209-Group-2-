@@ -106,6 +106,59 @@ The system should meet the following non-functional requirements:
 9. Data Integrity: The system shall ensure that item reports are stored accurately and that important information is not changed or lost without authorization.
 10. Privacy: The system shall limit access to sensitive information and avoid publicly displaying private details such as users' phone numbers or account information.
 
+## Scope and Priorities
+
+### Features included in the MVP
+Feature                                        Priority
+Student and staff registration and login       High
+Reporting lost items                           High
+Reporting found items                          High
+Searching for lost and found items             High
+Viewing item descriptions and pictures         High
+Claiming lost properties                       High
+Administrator verification of item ownership   High
+Marking items as recovered                     High
+
+### Features not included in the MVP
+The following features may be added in future versions:
+Automatic matching of lost and found items.
+Email or SMS notifications.
+Advanced search filters.
+Mobile application.
+Location tracking of lost properties.
+These features can be introduced after the basic system has been developed and tested.
+
+## Acceptance Criteria
+Acceptance criteria explain how we will verify that the system's features work correctly.
+The system will be considered acceptable when:
+1.A user can successfully register and log into the system.
+2.A user can report a lost item by entering the required information.
+3.A user can report a found item and upload an image.
+4.Users can search for lost and found items and view relevant results.
+5.A user can submit a claim for an item they believe belongs to them.
+6.An administrator can verify ownership before returning an item.
+7.An administrator can mark an item as recovered after it has been returned.
+8.Unauthorized users cannot access administrative features.
+9.The system displays appropriate messages when users submit incomplete or incorrect information.
+10.The system works properly on common web browsers and mobile devices.
+
+## Assumptions and Open Questions
+This section explains what we currently assume about the project and what still needs to be confirmed.
+
+### Assumptions
+1.Students and staff of Babcock University will have access to the internet.
+2.Users will provide accurate information when reporting lost or found items.
+3.The university will support the development and use of the system.
+4.A designated administrator will be responsible for managing item reports.
+5.A physical Lost and Found collection point will be available for keeping recovered properties.
+
+### Open Questions
+1.Will users register using their Babcock University email addresses or their matriculation and staff identification numbers?
+2.Who will be responsible for managing the system and verifying ownership of items?
+3.Where will recovered items be kept before they are collected?
+4.Will the system send notifications through email, SMS, or only within the platform?
+5.Will the system be available to students only, or will staff members also be allowed to use it?
+
 ## CONCLUSION
 ## Summary: Why Every Student Needs It
 
