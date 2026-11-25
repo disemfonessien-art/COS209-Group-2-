@@ -12,9 +12,31 @@ Loss of student property at Babcock University is the recurring situation where 
 * **Theft:** Where there is little accountability, some individuals take advantage of unattended belongings. Because stolen items are rarely traced, theft continues.
 * **Lack of identification systems:** Most belongings are unmarked and look alike (same phone model, calculator, or bottle). Even when an item is found, there is no way to prove who owns it or contact the owner.
 
+## Product Overview
+
+The Campus Lost and Found Management System is a digital platform designed to help students and staff of Babcock University report, locate, and recover lost properties within the university environment.
+The platform will provide a centralized system for reporting lost and found items, searching for missing belongings, and verifying ownership before items are returned.
+
 ## Proposed Solution: Development of a Student Lost and Found Management System for Babcock University
 
 This is a web-based (and mobile-friendly) system that gives Babcock University one organized platform for reporting, tracking, and returning lost items.
+
+## Business Objectives
+
+The objectives of the Campus Lost and Found Management System are to:
+Reduce the number of unrecovered lost properties within Babcock University.
+Provide a centralized platform for reporting lost and found items.
+Make it easier for students to search for and recover missing belongings.
+Improve the management and tracking of recovered properties.
+Promote responsibility and accountability among students.
+
+## Target Users
+
+The target users of the system are:
+Students: Students who lose or find personal belongings within the university.
+Lecturers: Lecturers who may lose or find items in classrooms and lecture halls.
+University staff: Staff members who may discover lost properties or assist in returning them.
+Lost and Found administrators: Individuals responsible for managing reports and keeping recovered items safe.
 
 ### How It Will Work
 
@@ -30,12 +52,31 @@ This is a web-based (and mobile-friendly) system that gives Babcock University o
 
 ## How It Addresses Each Problems
 
-
 * **Carelessness:** Easy reporting and notifications make recovery likely even when students forget items.
 * **Poor security:** Logged records, verified claims and location data show where security need improvement on Babcock campus.
 * **High population of students:** A centralized online platform handles large number of students without relying on word of mouth.
 * **Theft:** Ownership verification and registered items discourage theft and resale, and make stolen items easier to trace.
 * **Lack of identification systems:** QR codes and item registration give every belonging a traceable identity.
+
+## Stakeholders
+ 
+Stakeholders are individuals or groups who are involved in or affected by the product.
+The stakeholders include:
+Babcock University management.
+Students of Babcock University.
+Lecturers and academic staff.
+Non-academic staff.
+University security personnel.
+The development team responsible for building and maintaining the system.
+
+## User Stories
+
+User stories describe what users want to accomplish using the system.
+-As a student, I want to report a lost item so that I can increase my chances of recovering it.
+-As a student, I want to report a found item so that its rightful owner can locate it.
+-As a student, I want to search for lost items so that I can check whether my belongings have been found.
+-As a student, I want to receive notifications when an item matching my lost property is reported.
+-As a Lost and Found administrator, I want to verify ownership before returning an item so that properties are given to their rightful owners.
 
 ## CONCLUSION
 ## Summary: Why Every Student Needs It
