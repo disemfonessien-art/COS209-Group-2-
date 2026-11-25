@@ -78,6 +78,34 @@ User stories describe what users want to accomplish using the system.
 -As a student, I want to receive notifications when an item matching my lost property is reported.
 -As a Lost and Found administrator, I want to verify ownership before returning an item so that properties are given to their rightful owners.
 
+## Functional requirements
+
+The system should have the following functional requirements:
+1. User Registration and Login: The system shall allow students and staff of Babcock University to create accounts and log in securely.
+2. Report Lost Items: The system shall allow users to report lost properties by providing the item's name, description, category, location, and date it was last seen.
+3. Report Found Items: The system shall allow users to report items they have found by providing details and, where possible, uploading an image of the item.
+4. Search for Items: The system shall allow users to search for lost and found items using keywords, categories, and locations.
+5. Item Matching: The system shall compare lost-item reports with found-item reports to identify possible matches.
+6. Notifications: The system shall notify users when a found item matches the description of their lost property.
+7. Ownership Verification: The system shall allow administrators to verify the rightful owner of an item before it is returned.
+8. Manage Reports: The system shall allow administrators to view, update, approve, or remove lost and found item reports.
+9. Claim Items: The system shall allow users to submit a claim for an item they believe belongs to them.
+10. Mark Items as Recovered: The system shall allow administrators to mark items as recovered or returned to their rightful owners.
+
+## Non-Functional Requirements
+
+The system should meet the following non-functional requirements:
+1. Usability: The system shall have a simple and user-friendly interface that students and staff can easily understand and use.
+2. Performance: The system shall respond to user requests and display search results within a reasonable time.
+3. Security: The system shall protect users' personal information and prevent unauthorized access to accounts and reports.
+4. Reliability: The system shall operate consistently and provide accurate information about lost and found items.
+5. Availability: The system should be accessible to users whenever they need to report or search for missing properties, subject to maintenance and internet availability.
+6. Compatibility: The system shall work on common web browsers and be accessible through smartphones, tablets, and computers.
+7. Scalability: The system should be able to accommodate an increasing number of users and item reports as the university community grows.
+8. Maintainability: The system shall be designed so that developers can easily update, fix, and improve its features when necessary.
+9. Data Integrity: The system shall ensure that item reports are stored accurately and that important information is not changed or lost without authorization.
+10. Privacy: The system shall limit access to sensitive information and avoid publicly displaying private details such as users' phone numbers or account information.
+
 ## CONCLUSION
 ## Summary: Why Every Student Needs It
 
